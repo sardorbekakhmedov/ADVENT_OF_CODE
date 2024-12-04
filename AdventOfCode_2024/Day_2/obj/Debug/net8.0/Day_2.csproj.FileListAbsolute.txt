@@ -1,0 +1,14 @@
+C:\XLAM\AdventOfCode\Day_2\bin\Debug\net8.0\Day_2.exe
+C:\XLAM\AdventOfCode\Day_2\bin\Debug\net8.0\Day_2.deps.json
+C:\XLAM\AdventOfCode\Day_2\bin\Debug\net8.0\Day_2.runtimeconfig.json
+C:\XLAM\AdventOfCode\Day_2\bin\Debug\net8.0\Day_2.dll
+C:\XLAM\AdventOfCode\Day_2\bin\Debug\net8.0\Day_2.pdb
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\Day_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\Day_2.AssemblyInfoInputs.cache
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\Day_2.AssemblyInfo.cs
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\Day_2.csproj.CoreCompileInputs.cache
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\Day_2.dll
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\refint\Day_2.dll
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\Day_2.pdb
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\Day_2.genruntimeconfig.cache
+C:\XLAM\AdventOfCode\Day_2\obj\Debug\net8.0\ref\Day_2.dll
