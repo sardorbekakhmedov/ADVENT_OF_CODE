@@ -91,7 +91,7 @@ static bool IsSafe1(List<int> list)
 
 static List<List<int>> GetData()
 {
-    var lines = File.ReadAllLines(@"C:\XLAM\AdventOfCode\Day_2\task2.txt");
+    var lines = File.ReadAllLines(@"C:\XLAM\ADVENT_OF_CODE\ADVENT_OF_CODE\AdventOfCode_2024\Day_2\task2.txt");
 
     return lines.Select(line =>
             line.Split(new[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries) 

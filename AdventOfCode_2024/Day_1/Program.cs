@@ -5,7 +5,7 @@ Solution2();
 
 static void Solution2()
 {
-    string filePath = "C:\\XLAM\\AdventOfCode\\Day_1\\task1.txt";
+    string filePath = @"C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_1\\task1.txt";
 
     var lines = File.ReadAllLines(filePath);
 
@@ -43,7 +43,7 @@ static void Solution2()
 
 static void Solution1()
 {
-    string filePath = "C:\\XLAM\\AdventOfCode\\Day_1\\task1.txt";
+    string filePath = "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_1\\task1.txt";
 
     var lines = File.ReadAllLines(filePath);
 
