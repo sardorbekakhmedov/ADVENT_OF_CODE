@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_2\\Day_2.csproj",
+      "projectUniqueName": "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_2\\Day_2.csproj",
       "projectName": "Day_2",
-      "projectPath": "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_2\\Day_2.csproj",
+      "projectPath": "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_2\\Day_2.csproj",
       "packagesPath": "C:\\Users\\sardorak\\.nuget\\packages\\",
-      "outputPath": "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_2\\obj\\",
+      "outputPath": "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sardorak\\AppData\\Roaming\\NuGet\\NuGet.Config",

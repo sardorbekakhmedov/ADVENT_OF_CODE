@@ -165,7 +165,7 @@ static string[] GetDataTest()
 
 static string[] GetData()
 {
-    var filePath = @"C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\task4.txt";
+    var filePath = @"C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_4\task4.txt";
     if (File.Exists(filePath))
         return File.ReadAllLines(filePath);
 

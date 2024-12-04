@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj": {}
+    "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj": {}
   },
   "projects": {
-    "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj": {
+    "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj",
+        "projectUniqueName": "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj",
         "projectName": "Day_4",
-        "projectPath": "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj",
+        "projectPath": "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\Day_4.csproj",
         "packagesPath": "C:\\Users\\sardorak\\.nuget\\packages\\",
-        "outputPath": "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\obj\\",
+        "outputPath": "C:\\XLAM\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sardorak\\AppData\\Roaming\\NuGet\\NuGet.Config",

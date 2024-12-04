@@ -56,7 +56,7 @@ static void Solution1()
 
 static string GetData()
 {
-    var filePath = "C:\\XLAM\\ADVENT_OF_CODE\\ADVENT_OF_CODE\\AdventOfCode_2024\\Day_3\\task3.txt";
+    var filePath = @"C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_3\task3.txt";
     if (File.Exists(filePath))
         return File.ReadAllText(filePath);
     
