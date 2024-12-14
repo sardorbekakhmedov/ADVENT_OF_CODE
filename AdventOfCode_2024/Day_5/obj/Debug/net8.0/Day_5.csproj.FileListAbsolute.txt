@@ -1,0 +1,15 @@
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\bin\Debug\net8.0\Day_5.exe
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\bin\Debug\net8.0\Day_5.deps.json
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\bin\Debug\net8.0\Day_5.runtimeconfig.json
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\bin\Debug\net8.0\Day_5.dll
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\bin\Debug\net8.0\Day_5.pdb
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.AssemblyInfoInputs.cache
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.AssemblyInfo.cs
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.csproj.CoreCompileInputs.cache
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.sourcelink.json
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.dll
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\refint\Day_5.dll
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.pdb
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\Day_5.genruntimeconfig.cache
+C:\XLAM\ADVENT_OF_CODE\AdventOfCode_2024\Day_5\obj\Debug\net8.0\ref\Day_5.dll
